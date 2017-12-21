@@ -1,2 +1,1 @@
-# tbr5-client
-Mobile client for TBR5
+# TBR5 Web app
